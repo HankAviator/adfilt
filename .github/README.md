@@ -3,6 +3,10 @@
 [![alt text](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Images/Flattr%20button.png)](https://flattr.com/@DandelionSprout)
 [![alt text](https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Images/RSS-knapp.png)](https://github.com/DandelionSprout/adfilt/commits/master.atom)
 
+
+> [!WARNING]
+> Archiving this project as my browser is no longer supporting uBo
+
 ———————————————————————————
 
 **IMPORTANT NOTE:** My lists do not, can not, and will never ever support Manifest v3, due to the lack of list hotfixes and its various syntax limitations. Issue reports for Manifest v3-based extension versions, or Chrome versions released [after May 2023](https://www.ghacks.net/2022/09/29/google-delays-the-death-of-manifest-v2-extensions-to-2024/), will **not** be accepted, and if you do submit one, you would be asked to use an alternate web browser instead.
